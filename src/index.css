@@ -53,3 +53,14 @@ input {
   height: 1.5rem;
   padding: 1rem;
 }
+
+span {
+  padding: 5px;
+}
+
+.selected {
+  background-color: brown;
+  padding: 5px;
+  color: white;
+  border-radius: .5rem;
+}
